@@ -1,6 +1,6 @@
 # :skier: Yassine jarir
 
-** Digital Crafsman (Developper/Creator)**
+**`Digital Crafsman (Developper/Creator)`**
 Passionate frontend web developer skilled in HTML, CSS, and JavaScript, React.js, Three.js..., Transforming design concepts into captivating and user-friendly websites is my forte. With an eye for detail and a focus on optimization, I create seamless and visually appealing web experiences. Collaborative team player, working closely with designers and backend developers to deliver outstanding results. Committed to staying current with the latest frontend technologies and continuously enhancing my skill set.
 
 ### :fire: Languages and Tools
